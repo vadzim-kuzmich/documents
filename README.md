@@ -1,2 +1,2 @@
 # documents
-Documents to be stored somewhere
+Documents to be stored somewhere.
